@@ -1,7 +1,7 @@
 # Finance-tracker
 # Student Finance & Expense Tracker
 
-This is a Python based project made to help students manage their personal finances. The program allows users to record income and expenses, view transactions within a specified date range, and analyze financial summaries. The project uses a CSV file for data storage and Matplotlib for optional graphical visualization.
+This project is made to help students manage their personal finances. The program allows users to record income and expenses, view transactions within a specified date range, and analyze financial summaries. The project uses a CSV file for data storage and Matplotlib for optional graphical visualization.
 
 ## Features
 - Add new income or expense 
